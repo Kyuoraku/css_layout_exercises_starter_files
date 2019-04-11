@@ -1,0 +1,42 @@
+.contenedor{
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.contenedor-arriba{
+  text-align: center;
+}
+.contenedor-abajo{
+  text-align: center;
+}
+.mitades{
+  height: 200px;
+  width: 50%;
+}
+.tercios{
+  height: 300px;
+  width: 33.3%
+}
+.verde{
+  background-color: green;
+}
+.azul{
+  background-color: blue;
+}
+.gris{
+  background-color: grey;
+}
+.negro{
+  background-color: black;
+}
+.amarillo{
+  background-color: yellow;
+}
+div.contenedor div div{
+  border: 1px solid black;
+  display: inline-block;
+}
+main{
+  font-size: 0;
+}
